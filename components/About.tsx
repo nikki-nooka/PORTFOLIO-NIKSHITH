@@ -60,15 +60,15 @@ export default function About() {
             className="space-y-6"
           >
             <motion.p variants={itemVariants} className="text-gray-700 dark:text-gray-300 text-lg leading-relaxed break-text">
-              I'm an AI/ML undergraduate at Malla Reddy University with a passion for building intelligent solutions. As a Google Campus Ambassador, I actively contribute to the tech community and mentor aspiring developers.
+              I&apos;m an AI/ML undergraduate at Malla Reddy University with a passion for building intelligent solutions. As a Google Campus Ambassador, I actively contribute to the tech community and mentor aspiring developers.
             </motion.p>
 
             <motion.p variants={itemVariants} className="text-gray-700 dark:text-gray-300 text-lg leading-relaxed">
-              With 8 national and international hackathon wins, I've demonstrated my ability to innovate under pressure and deliver impactful solutions. I'm an open-source contributor and have experience with cutting-edge AI technologies including Google Gemini, PyTorch, and TensorFlow.
+              With 8 national and international hackathon wins, I&apos;ve demonstrated my ability to innovate under pressure and deliver impactful solutions. I&apos;m an open-source contributor and have experience with cutting-edge AI technologies including Google Gemini, PyTorch, and TensorFlow.
             </motion.p>
 
             <motion.p variants={itemVariants} className="text-gray-700 dark:text-gray-300 text-lg leading-relaxed">
-              My journey spans from AI development and machine learning to web development and full-stack engineering. I'm driven by curiosity and the desire to solve real-world problems through technology.
+              My journey spans from AI development and machine learning to web development and full-stack engineering. I&apos;m driven by curiosity and the desire to solve real-world problems through technology.
             </motion.p>
 
             <motion.div variants={itemVariants} className="pt-4">

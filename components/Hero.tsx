@@ -123,7 +123,7 @@ export default function Hero() {
             whileTap={{ scale: 0.95 }}
             className="px-8 py-4 border-2 border-purple-600 dark:border-purple-400 text-purple-600 dark:text-purple-400 rounded-xl font-bold text-lg hover:bg-purple-50 dark:hover:bg-purple-900/30 transition-all"
           >
-            Let\'s Connect
+            Let&apos;s Connect
           </motion.a>
         </motion.div>
 

@@ -62,7 +62,7 @@ export default function Contact() {
             className="space-y-6"
           >
             <p className="text-gray-700 dark:text-gray-300 text-lg leading-relaxed font-semibold">
-              I'm always open to new opportunities, collaborations, and interesting projects. Feel free to reach out if you'd like to connect!
+              I&apos;m always open to new opportunities, collaborations, and interesting projects. Feel free to reach out if you&apos;d like to connect!
             </p>
 
             <div className="space-y-4">
